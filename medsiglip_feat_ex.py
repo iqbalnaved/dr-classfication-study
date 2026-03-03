@@ -6,7 +6,7 @@ from PIL import Image
 from transformers import AutoProcessor, AutoModel
 
 from huggingface_hub import login
-login("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")
+login(os.getenv("HF_TOKEN"))
 
 
 np.set_printoptions(threshold=np.inf)
@@ -101,3 +101,4 @@ df_all.columns = ["name"] + feat_cols + ["label"]
 
 df_all.to_csv(save_path, index=False)
 print("✅ Features saved to:", save_path)
+
