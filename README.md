@@ -3,7 +3,8 @@
 **Paper link:** [PAPER LINK / DOI PLACEHOLDER]
 
 **Main diagram / overview figure:**  
-diagram.png
+![Overview](diagram.png "Overview")
+
 
 ---
 
