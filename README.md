@@ -1,4 +1,4 @@
-# [Comparative Analysis of General-Purpose vs. Domain-Specific Multimodal Models for Diabetic Retinopathy Classification]
+# Comparative Analysis of General-Purpose vs. Domain-Specific Multimodal Models for Diabetic Retinopathy Classification
 
 **Paper link:** [PAPER LINK / DOI PLACEHOLDER]
 
