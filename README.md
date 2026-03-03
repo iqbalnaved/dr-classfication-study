@@ -3,7 +3,7 @@
 **Paper link:** [PAPER LINK / DOI PLACEHOLDER]
 
 **Main diagram / overview figure:**  
-[diagram.png]
+diagram.png
 
 ---
 
